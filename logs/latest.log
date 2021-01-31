@@ -1,0 +1,138 @@
+[21:33:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:33:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:33:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:33:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:33:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:33:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:33:12] [main/INFO]: Reloading ResourceManager: Default
+[21:33:13] [Worker-Main-10/INFO]: Loaded 7 recipes
+[21:33:13] [Worker-Main-10/INFO]: Loaded 927 advancements
+[21:33:15] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[21:33:15] [Server thread/INFO]: Loading properties
+[21:33:15] [Server thread/INFO]: Default game type: SURVIVAL
+[21:33:15] [Server thread/INFO]: Generating keypair
+[21:33:15] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_261]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_261]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_261]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_261]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_261]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_261]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_261]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_261]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_261]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_261]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_261]
+	at zg$1.run(SourceFile:95) [server.jar:?]
+[21:33:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:33:15] [Server thread/INFO]: Using default channel type
+[21:33:16] [Server thread/INFO]: Preparing level "world"
+[21:33:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:33:17] [Server thread/INFO]: Preparing spawn area: 0%
+[21:33:17] [Server thread/INFO]: Preparing spawn area: 0%
+[21:33:18] [Server thread/INFO]: Preparing spawn area: 0%
+[21:33:20] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[21:33:20] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[21:33:20] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[21:33:20] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[21:33:20] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[21:33:21] [Worker-Main-8/INFO]: Preparing spawn area: 99%
+[21:33:21] [Server thread/INFO]: Time elapsed: 4178 ms
+[21:33:21] [Server thread/INFO]: Done (4.254s)! For help, type "help"
+[21:37:17] [User Authenticator #1/INFO]: UUID of player xGeeTeax is dc0dc04c-0f0c-49f5-83a3-92b5247e33bb
+[21:37:17] [Server thread/INFO]: xGeeTeax[/123.202.84.175:1310] logged in with entity id 36 at (-121.86878534252752, 64.0, 715.8162465790217)
+[21:37:17] [Server thread/INFO]: xGeeTeax joined the game
+[21:40:53] [User Authenticator #2/INFO]: UUID of player anguschang123 is 2ce85186-99af-44d7-b5b5-8aa72762e13e
+[21:40:53] [Server thread/INFO]: anguschang123[/59.148.155.83:62964] logged in with entity id 774 at (-124.43024722897528, 64.0, 710.2052508190694)
+[21:40:53] [Server thread/INFO]: anguschang123 joined the game
+[21:40:59] [Server thread/INFO]: anguschang123 lost connection: Disconnected
+[21:40:59] [Server thread/INFO]: anguschang123 left the game
+[21:41:32] [User Authenticator #3/INFO]: UUID of player anguschang123 is 2ce85186-99af-44d7-b5b5-8aa72762e13e
+[21:41:32] [Server thread/INFO]: anguschang123[/59.148.155.83:63142] logged in with entity id 895 at (-124.43024722897528, 64.0, 710.2052508190694)
+[21:41:32] [Server thread/INFO]: anguschang123 joined the game
+[21:45:40] [Server thread/INFO]: xGeeTeax has made the advancement [Isn't It Iron Pick]
+[22:30:43] [User Authenticator #4/INFO]: UUID of player danielst133 is 936b68ab-cbbb-4916-95fd-213adfbb9dd5
+[22:30:43] [Server thread/INFO]: danielst133[/218.102.169.96:19805] logged in with entity id 13715 at (-126.5, 71.0, 178.5)
+[22:30:43] [Server thread/INFO]: danielst133 joined the game
+[22:31:03] [Server thread/INFO]: <xGeeTeax> go to -119 712
+[22:31:20] [Server thread/INFO]: <danielst133> swim?
+[22:31:23] [Server thread/INFO]: <xGeeTeax> yes
+[22:31:35] [Server thread/INFO]: <danielst133> get a boat to me
+[22:31:38] [Server thread/INFO]: <danielst133> while im afking
+[22:31:45] [Server thread/INFO]: <xGeeTeax> where you
+[22:32:33] [Server thread/INFO]: danielst133 lost connection: Disconnected
+[22:32:33] [Server thread/INFO]: danielst133 left the game
+[22:33:00] [User Authenticator #5/INFO]: UUID of player danielst133 is 936b68ab-cbbb-4916-95fd-213adfbb9dd5
+[22:33:00] [Server thread/INFO]: danielst133[/218.102.169.96:19891] logged in with entity id 14266 at (-121.11261126187136, 68.0, 186.91279922386866)
+[22:33:00] [Server thread/INFO]: danielst133 joined the game
+[22:35:30] [Server thread/WARN]: danielst133 moved wrongly!
+[22:35:58] [Server thread/INFO]: danielst133 was shot by Skeleton
+[22:36:03] [Server thread/INFO]: <anguschang123> pepelaugh
+[22:36:07] [Server thread/INFO]: <xGeeTeax> where you
+[22:36:15] [Server thread/INFO]: <anguschang123> -102 66 732
+[22:36:20] [Server thread/INFO]: <anguschang123> our position
+[22:39:16] [Server thread/INFO]: xGeeTeax has made the advancement [Not Today, Thank You]
+[22:39:30] [Server thread/INFO]: anguschang123 lost connection: Disconnected
+[22:39:30] [Server thread/INFO]: anguschang123 left the game
+[22:39:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:39:33] [Server thread/INFO]: s<--[HERE]
+[22:39:39] [User Authenticator #6/INFO]: UUID of player anguschang123 is 2ce85186-99af-44d7-b5b5-8aa72762e13e
+[22:39:39] [Server thread/INFO]: anguschang123[/59.148.155.83:49412] logged in with entity id 17158 at (-124.86308859082793, 64.96192408821369, 715.3150861379245)
+[22:39:39] [Server thread/INFO]: anguschang123 joined the game
+[22:40:31] [Server thread/WARN]: anguschang123 moved too quickly! -8.918970753187239,-1.2247629905309907,-4.496814491244322
+[22:41:23] [Server thread/INFO]: <xGeeTeax> where you
+[22:42:41] [Server thread/INFO]: <anguschang123> this thing is slow
+[22:42:48] [Server thread/INFO]: <anguschang123> can only say that
+[22:42:58] [Server thread/INFO]: danielst133 has made the advancement [Acquire Hardware]
+[22:43:23] [Server thread/INFO]: <anguschang123> gachiBASS
+[22:47:01] [Server thread/INFO]: danielst133 lost connection: Disconnected
+[22:47:01] [Server thread/INFO]: danielst133 left the game
+[22:47:25] [User Authenticator #7/INFO]: UUID of player danielst133 is 936b68ab-cbbb-4916-95fd-213adfbb9dd5
+[22:47:25] [Server thread/INFO]: danielst133[/218.102.169.96:55311] logged in with entity id 19003 at (-118.08905331587874, 64.0, 724.9752703316004)
+[22:47:25] [Server thread/INFO]: danielst133 joined the game
+[22:48:18] [Server thread/INFO]: danielst133 has made the advancement [Isn't It Iron Pick]
+[22:49:03] [Server thread/INFO]: xGeeTeax lost connection: Disconnected
+[22:49:03] [Server thread/INFO]: xGeeTeax left the game
+[22:49:05] [User Authenticator #8/INFO]: UUID of player xGeeTeax is dc0dc04c-0f0c-49f5-83a3-92b5247e33bb
+[22:49:05] [Server thread/INFO]: xGeeTeax[/123.202.84.175:2324] logged in with entity id 19392 at (-118.23965355284926, 64.0, 711.962448750193)
+[22:49:05] [Server thread/INFO]: xGeeTeax joined the game
+[22:49:31] [Server thread/INFO]: danielst133 has made the advancement [We Need to Go Deeper]
+[22:49:54] [Server thread/INFO]: xGeeTeax has made the advancement [Suit Up]
+[22:50:50] [Server thread/INFO]: danielst133 has made the advancement [Diamonds!]
+[22:50:54] [Server thread/INFO]: xGeeTeax has made the advancement [Diamonds!]
+[22:51:22] [Server thread/INFO]: <xGeeTeax> dc?
+[22:51:29] [Server thread/INFO]: <danielst133> later
+[22:51:47] [Server thread/INFO]: danielst133 has made the advancement [Monster Hunter]
+[22:55:05] [Server thread/INFO]: anguschang123 lost connection: Disconnected
+[22:55:05] [Server thread/INFO]: anguschang123 left the game
+[22:55:07] [User Authenticator #9/INFO]: UUID of player anguschang123 is 2ce85186-99af-44d7-b5b5-8aa72762e13e
+[22:55:07] [Server thread/INFO]: anguschang123[/59.148.155.83:49815] logged in with entity id 20345 at (-121.30835092452983, 64.0, 716.9894650537436)
+[22:55:07] [Server thread/INFO]: anguschang123 joined the game
+[22:56:40] [Server thread/INFO]: xGeeTeax has made the advancement [We Need to Go Deeper]
+[23:03:06] [Server thread/INFO]: danielst133 lost connection: Disconnected
+[23:03:06] [Server thread/INFO]: danielst133 left the game
+[23:03:07] [User Authenticator #10/INFO]: UUID of player danielst133 is 936b68ab-cbbb-4916-95fd-213adfbb9dd5
+[23:03:07] [Server thread/INFO]: danielst133[/218.102.169.96:21263] logged in with entity id 22213 at (-113.1114880123669, 63.0, 755.4884241598439)
+[23:03:07] [Server thread/INFO]: danielst133 joined the game
+[23:13:32] [Server thread/INFO]: danielst133 was slain by Spider
+[23:13:38] [Server thread/INFO]: <xGeeTeax> pepelaugh
+[23:13:51] [Server thread/INFO]: xGeeTeax lost connection: Disconnected
+[23:13:51] [Server thread/INFO]: xGeeTeax left the game
+[23:19:03] [Server thread/INFO]: anguschang123 lost connection: Disconnected
+[23:19:03] [Server thread/INFO]: anguschang123 left the game
+[23:25:49] [Server thread/INFO]: danielst133 lost connection: Disconnected
+[23:25:49] [Server thread/INFO]: danielst133 left the game
+[23:25:58] [Server thread/INFO]: Stopping the server
+[23:25:58] [Server thread/INFO]: Stopping server
+[23:25:58] [Server thread/INFO]: Saving players
+[23:25:58] [Server thread/INFO]: Saving worlds
+[23:25:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:25:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:25:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:25:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:25:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:25:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:25:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:25:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:25:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
